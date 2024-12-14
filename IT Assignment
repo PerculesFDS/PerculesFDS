@@ -1,0 +1,42 @@
+**Wiring Plan:**
+This document describes the cable runs to each room, including the estimated total cable length between the equipment room, telecommunication closets, and other rooms. 
+
+**Assumptions**: 
+- **Building Scale**: The building width is 300 feet. All other dimensions will be proportionally estimated from the provided floor plan.
+- **Cable Type**: CAT6 Ethernet cable, suitable for gigabit-speed connections.
+- **Cable Length Estimates**: Cable runs will include paths between the equipment room, telecommunication closets, and rooms, factoring in a 10% overhead for slack.
+- **Telecommunication Closets**: Four closets will be located in selected small offices.
+- **Equipment Room**: A centralized location near the telecommunication closets for patch panels and main networking equipment.
+- **Endpoints**: Each room will be equipped with 2 RJ45 outlets and wall plates.
+
+---
+
+**Step 2: Plan and Budget**
+
+**Cable Runs**:
+1. **From Equipment Room to Telecommunication Closets**: Estimated cable runs will be based on the floor plan and scaled dimensions.
+2. **From Closets to Individual Rooms**: Each classroom/office will have an estimated cable length based on the scaled floor plan, adjusted for cable pathways (walls, ceilings, etc.).
+
+**Budget**:
+
+| Item                       | Cost Per Unit | Quantity | Total Cost | Source           |
+|----------------------------|----------------|----------|------------|-------------------|
+| CAT6 Cable (1000ft)       | $150           | 10       | $1,500     | Monoprice         |
+| RJ45 Outlets               | $5             | 80       | $400       | Amazon            |
+| Wall Plates                | $2             | 80       | $160       | Amazon            |
+| Patch Panels (24-port)     | $100           | 4        | $400       | Monoprice         |
+| Cable Management (misc)    | $300           | 1        | $300       | Estimate for accessories |
+| **Total**                 |                |          | **$2,760** |                   |
+
+---
+
+**Floor Plan Annotation**:
+- **Equipment Room**: Centrally located to ensure manageable cable lengths to the telecommunication closets.
+- **Telecommunication Closets**: Installed in the small offices, equidistant from endpoints for optimal coverage.
+
+---
+
+**Step 3: Deliverables**
+- A detailed wiring plan.
+- An annotated floor plan indicating the location of the equipment room and telecommunication closets.
+- A finalized budget summary.
